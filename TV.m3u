@@ -655,10 +655,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Cowboy tv
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 
-
-
-
-#EXTM3U
 #EXTINF:-1 ,BEIN SPORTS 1
 http://27.124.71.27/beIN_Sports_1/index.m3u8
 #EXTINF:-1 ,BEIN SPORTS 2
